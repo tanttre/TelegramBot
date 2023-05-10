@@ -4,7 +4,7 @@
 int main() 
 {
     // Логика
-    TgBot::Bot bot("6265228344:AAGpuqtKNqf4keUP8FGMN5k94hyj_oQWnpg"); // !
+    TgBot::Bot bot("ТОКЕН"); // !!!
 
     // Окна в чате
     TgBot::InlineKeyboardMarkup::Ptr keyboard(new TgBot::InlineKeyboardMarkup);
